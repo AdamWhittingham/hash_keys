@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 
 Gem::Specification.new do |spec|
   spec.name          = "hash_keys"
-  spec.version       = '1.0.2'
+  spec.version       = '1.0.3'
   spec.authors       = ["Adam Whittingham"]
   spec.email         = ["adam.whittingham@gmail.com"]
   spec.summary       = 'Adds commonly duplicated key select/reject code to Hash'
